@@ -132,6 +132,20 @@
       <NearestAirport>Vadodara Airport</NearestAirport>
     </Address>
   </Hotel>
+
+    <Hotel Rating="4.2">
+    <Name>Lemon Tree Hotel Vadodara</Name>
+    <Phone>0265-6190500</Phone>
+    <Phone>1800-102-1700</Phone>
+    <Address>
+      <Number>Opposite Parsi Agiary</Number>
+      <Street>Sayajigunj</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390020</Zip>
+      <NearestAirport>Vadodara Airport</NearestAirport>
+    </Address>
+  </Hotel>
 </Hotels>
 
 <!--End of XML Document-->
