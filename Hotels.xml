@@ -15,137 +15,124 @@
     </Address>
   </Hotel>
   
-  <!--Other 9 that I chose from New York-->
-  <Hotel Rating="4.8">
-    <Name>The Plaza Hotel</Name>
-    <Phone>212-759-3000</Phone>
-    <Phone>800-123-4567</Phone>
-    <Address>
-      <Number>768</Number>
-      <Street>Fifth Avenue</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10019</Zip>
-      <NearstAirport>JFK International Airport</NearstAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.7">
-    <Name>The St. Regis New York</Name>
-    <Phone>212-753-4500</Phone>
-    <Address>
-      <Number>2</Number>
-      <Street>East 55th Street</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10022</Zip>
-      <NearstAirport>LaGuardia Airport</NearstAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel>
-    <Name>Pod 51 Hotel</Name>
-    <Phone>212-355-0300</Phone>
-    <Address>
-      <Number>230</Number>
-      <Street>East 51st Street</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10022</Zip>
-      <NearstAirport>JFK International Airport</NearstAirport>
-    </Address>
-  </Hotel>
-
+<!--Other 9 that I chose are from my home town Vadodara-->
   <Hotel Rating="4.5">
-    <Name>The Peninsula New York</Name>
-    <Phone>212-956-2888</Phone>
+    <Name>Welcomhotel Vadodara</Name>
+    <Phone>0265-2330033</Phone>
+    <Phone>1800-102-2333</Phone>
     <Address>
-      <Number>700</Number>
-      <Street>Fifth Avenue</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10019</Zip>
-      <NearstAirport>Newark Liberty International Airport</NearstAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.4">
-    <Name>1 Hotel Central Park</Name>
-    <Phone>212-703-2001</Phone>
-    <Phone>888-555-1212</Phone>
-    <Address>
-      <Number>1414</Number>
-      <Street>Avenue of the Americas</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10019</Zip>
-      <NearstAirport>LaGuardia Airport</NearstAirport>
+      <Number>R.C. Dutt Road</Number>
+      <Street>Alkapuri</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390007</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
   <Hotel>
-    <Name>Hotel Edison</Name>
-    <Phone>212-840-5000</Phone>
+    <Name>Hotel Express Towers</Name>
+    <Phone>0265-2334444</Phone>
     <Address>
-      <Number>228</Number>
-      <Street>West 47th Street</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10036</Zip>
-      <NearstAirport>JFK International Airport</NearstAirport>
+      <Number>R.C. Dutt Road</Number>
+      <Street>Alkapuri</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390007</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.1">
-    <Name>Arlo NoMad</Name>
-    <Phone>212-806-7000</Phone>
+  <Hotel Rating="4.3">
+    <Name>Grand Mercure Vadodara Surya Palace</Name>
+    <Phone>0265-2363366</Phone>
     <Address>
-      <Number>11</Number>
-      <Street>East 31st Street</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10016</Zip>
-      <NearstAirport>Newark Liberty International Airport</NearstAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel>
-    <Name>CitizenM Times Square</Name>
-    <Phone>212-461-3638</Phone>
-    <Address>
-      <Number>218</Number>
-      <Street>West 50th Street</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10019</Zip>
-      <NearstAirport>JFK International Airport</NearstAirport>
-    </Address>
-  </Hotel>
-
-  <Hotel Rating="4.6">
-    <Name>Lotte New York Palace</Name>
-    <Phone>212-888-7000</Phone>
-    <Address>
-      <Number>455</Number>
-      <Street>Madison Avenue</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10022</Zip>
-      <NearstAirport>LaGuardia Airport</NearstAirport>
+      <Number>Sayajigunj</Number>
+      <Street>Opp. Parsi Agiary</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390020</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.0">
-    <Name>The Jane Hotel</Name>
-    <Phone>212-924-6700</Phone>
-    <Phone>800-456-7890</Phone>
+    <Name>Sayaji Hotel</Name>
+    <Phone>0265-6885555</Phone>
     <Address>
-      <Number>113</Number>
-      <Street>Jane Street</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10014</Zip>
-      <NearstAirport>Newark Liberty International Airport</NearstAirport>
+      <Number>Near Kala Ghoda Circle</Number>
+      <Street>Akota</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390020</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Suba Elite</Name>
+    <Phone>0265-2333344</Phone>
+    <Phone>1800-123-4567</Phone>
+    <Address>
+      <Number>Fatehgunj Main Road</Number>
+      <Street>Fatehgunj</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390002</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>Regenta Inn</Name>
+    <Phone>0265-2487001</Phone>
+    <Address>
+      <Number>Opp. Railway Station</Number>
+      <Street>Sayajigunj</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390020</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>Hampton by Hilton Vadodara</Name>
+    <Phone>0265-6625555</Phone>
+    <Address>
+      <Number>14</Number>
+      <Street>Friends Co-op Society</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390007</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Caspia Pro</Name>
+    <Phone>0265-3099000</Phone>
+    <Address>
+      <Number>Opp. Osia Hypermart</Number>
+      <Street>Chhani Jakat Naka</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390024</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Hotel Fern Residency</Name>
+    <Phone>0265-2300400</Phone>
+    <Phone>0265-2300401</Phone>
+    <Address>
+      <Number>Near Central Bus Depot</Number>
+      <Street>Station Road</Street>
+      <City>Vadodara</City>
+      <State>GJ</State>
+      <Zip>390001</Zip>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 </Hotels>
