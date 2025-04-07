@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <!--This is the hotel from the assignment document-->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearstAirport>Sky Harbor</NearstAirport>
+    </Address>
+  </Hotel>
+  
+  <!--Other 9 that I chose from New York-->
+  <Hotel Rating="4.8">
+    <Name>The Plaza Hotel</Name>
+    <Phone>212-759-3000</Phone>
+    <Phone>800-123-4567</Phone>
+    <Address>
+      <Number>768</Number>
+      <Street>Fifth Avenue</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+      <NearstAirport>JFK International Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>The St. Regis New York</Name>
+    <Phone>212-753-4500</Phone>
+    <Address>
+      <Number>2</Number>
+      <Street>East 55th Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10022</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Pod 51 Hotel</Name>
+    <Phone>212-355-0300</Phone>
+    <Address>
+      <Number>230</Number>
+      <Street>East 51st Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10022</Zip>
+      <NearstAirport>JFK International Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>The Peninsula New York</Name>
+    <Phone>212-956-2888</Phone>
+    <Address>
+      <Number>700</Number>
+      <Street>Fifth Avenue</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+      <NearstAirport>Newark Liberty International Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>1 Hotel Central Park</Name>
+    <Phone>212-703-2001</Phone>
+    <Phone>888-555-1212</Phone>
+    <Address>
+      <Number>1414</Number>
+      <Street>Avenue of the Americas</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Edison</Name>
+    <Phone>212-840-5000</Phone>
+    <Address>
+      <Number>228</Number>
+      <Street>West 47th Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10036</Zip>
+      <NearstAirport>JFK International Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>Arlo NoMad</Name>
+    <Phone>212-806-7000</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>East 31st Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10016</Zip>
+      <NearstAirport>Newark Liberty International Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>CitizenM Times Square</Name>
+    <Phone>212-461-3638</Phone>
+    <Address>
+      <Number>218</Number>
+      <Street>West 50th Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+      <NearstAirport>JFK International Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Lotte New York Palace</Name>
+    <Phone>212-888-7000</Phone>
+    <Address>
+      <Number>455</Number>
+      <Street>Madison Avenue</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10022</Zip>
+      <NearstAirport>LaGuardia Airport</NearstAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>The Jane Hotel</Name>
+    <Phone>212-924-6700</Phone>
+    <Phone>800-456-7890</Phone>
+    <Address>
+      <Number>113</Number>
+      <Street>Jane Street</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10014</Zip>
+      <NearstAirport>Newark Liberty International Airport</NearstAirport>
+    </Address>
+  </Hotel>
+</Hotels>
+
+<!--End of XML Document-->
