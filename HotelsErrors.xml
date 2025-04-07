@@ -30,39 +30,36 @@
   <Hotel>
     <Name>Hotel Express Towers</Name>
     <Phone>0265-2334444</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>R.C. Dutt Road</Number>
       <Street>Alkapuri</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390007</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.3">
     <Name>Grand Mercure Vadodara Surya Palace</Name>
     <Phone>0265-2363366</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>Sayajigunj</Number>
       <Street>Opp. Parsi Agiary</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390020</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.0">
     <Name>Sayaji Hotel</Name>
     <Phone>0265-6885555</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>Near Kala Ghoda Circle</Number>
       <Street>Akota</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390020</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -70,52 +67,48 @@
     <Name>Hotel Suba Elite</Name>
     <Phone>0265-2333344</Phone>
     <Phone>1800-123-4567</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>Fatehgunj Main Road</Number>
       <Street>Fatehgunj</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390002</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="3.9">
     <Name>Regenta Inn</Name>
     <Phone>0265-2487001</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>Opp. Railway Station</Number>
       <Street>Sayajigunj</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390020</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.1">
     <Name>Hampton by Hilton Vadodara</Name>
     <Phone>0265-6625555</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>14</Number>
       <Street>Friends Co-op Society</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390007</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
   <Hotel>
     <Name>Hotel Caspia Pro</Name>
     <Phone>0265-3099000</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>Opp. Osia Hypermart</Number>
       <Street>Chhani Jakat Naka</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390024</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -123,27 +116,25 @@
     <Name>Hotel Fern Residency</Name>
     <Phone>0265-2300400</Phone>
     <Phone>0265-2300401</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>Near Central Bus Depot</Number>
       <Street>Station Road</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390001</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
-    <Hotel Rating="4.2">
+  <Hotel Rating="4.2">
     <Name>Lemon Tree Hotel Vadodara</Name>
     <Phone>0265-6190500</Phone>
     <Phone>1800-102-1700</Phone>
-    <Address>
+    <Address NearstAirport="Vadodara Airport">
       <Number>Opposite Parsi Agiary</Number>
       <Street>Sayajigunj</Street>
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390020</Zip>
-      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 </Hotels>
