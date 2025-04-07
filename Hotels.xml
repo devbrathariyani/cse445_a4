@@ -11,7 +11,7 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearstAirport>Sky Harbor</NearstAirport>
     </Address>
   </Hotel>
   
@@ -26,7 +26,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390007</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -39,7 +39,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390007</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -52,7 +52,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390020</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -65,7 +65,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390020</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -79,7 +79,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390002</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -92,7 +92,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390020</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -105,7 +105,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390007</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -118,7 +118,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390024</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -132,7 +132,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390001</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 
@@ -146,7 +146,7 @@
       <City>Vadodara</City>
       <State>GJ</State>
       <Zip>390020</Zip>
-      <NearestAirport>Vadodara Airport</NearestAirport>
+      <NearstAirport>Vadodara Airport</NearstAirport>
     </Address>
   </Hotel>
 </Hotels>
