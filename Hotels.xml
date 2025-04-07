@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--This is the hotel from the assignment document-->
 <Hotels>
-  <!--This is the hotel from the assignment document-->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -14,7 +14,6 @@
     </Address>
   </Hotel>
   
-<!--Other 9 that I chose are from my home town Vadodara-->
  <Hotel Rating="4.5">
     <Name>Welcomhotel Vadodara</Name>
     <Phone>0265-2330033</Phone>
