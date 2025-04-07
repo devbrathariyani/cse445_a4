@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--This is the hotel from the assignment document-->
 <Hotels>
+  <!--This is the hotel from the assignment document-->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -14,128 +14,129 @@
     </Address>
   </Hotel>
 
+  <!--The other 10 are from Seattle-->
   <Hotel Rating="4.5">
-  <Name>Hyatt Regency Seattle</Name>
-  <Phone>206-973-1234</Phone>
-  <Phone>800-233-1234</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>808</Number>
-    <Street>Howell St</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98101</Zip>
-  </Address>
-</Hotel>
+    <Name>Hyatt Regency Seattle</Name>
+    <Phone>206-973-1234</Phone>
+    <Phone>800-233-1234</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>808</Number>
+      <Street>Howell St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel Rating="4.4">
-  <Name>Four Seasons Hotel Seattle</Name>
-  <Phone>206-749-7000</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>99</Number>
-    <Street>Union St</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98101</Zip>
-  </Address>
-</Hotel>
+  <Hotel Rating="4.4">
+    <Name>Four Seasons Hotel Seattle</Name>
+    <Phone>206-749-7000</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>99</Number>
+      <Street>Union St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel Rating="4.3">
-  <Name>Hotel Ändra</Name>
-  <Phone>206-448-8600</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>2000</Number>
-    <Street>4th Ave</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98121</Zip>
-  </Address>
-</Hotel>
+  <Hotel Rating="4.3">
+    <Name>Hotel Ändra</Name>
+    <Phone>206-448-8600</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>2000</Number>
+      <Street>4th Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98121</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel>
-  <Name>The Edgewater Hotel</Name>
-  <Phone>206-728-7000</Phone>
-  <Phone>888-850-6146</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>2411</Number>
-    <Street>Alaskan Way</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98121</Zip>
-  </Address>
-</Hotel>
+  <Hotel>
+    <Name>The Edgewater Hotel</Name>
+    <Phone>206-728-7000</Phone>
+    <Phone>888-850-6146</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>2411</Number>
+      <Street>Alaskan Way</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98121</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel Rating="4.0">
-  <Name>Staypineapple, The Maxwell Hotel</Name>
-  <Phone>866-866-7977</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>300</Number>
-    <Street>Roy St</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98109</Zip>
-  </Address>
-</Hotel>
+  <Hotel Rating="4.0">
+    <Name>Staypineapple, The Maxwell Hotel</Name>
+    <Phone>866-866-7977</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>300</Number>
+      <Street>Roy St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98109</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel Rating="3.9">
-  <Name>Silver Cloud Hotel - Seattle Stadium</Name>
-  <Phone>206-204-9800</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>1046</Number>
-    <Street>1st Ave S</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98134</Zip>
-  </Address>
-</Hotel>
+  <Hotel Rating="3.9">
+    <Name>Silver Cloud Hotel - Seattle Stadium</Name>
+    <Phone>206-204-9800</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>1046</Number>
+      <Street>1st Ave S</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98134</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel>
-  <Name>Hotel Theodore</Name>
-  <Phone>206-621-1200</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>1531</Number>
-    <Street>7th Ave</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98101</Zip>
-  </Address>
-</Hotel>
+  <Hotel>
+    <Name>Hotel Theodore</Name>
+    <Phone>206-621-1200</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>1531</Number>
+      <Street>7th Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel Rating="4.1">
-  <Name>W Seattle</Name>
-  <Phone>206-264-6000</Phone>
-  <Phone>877-822-0000</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>1112</Number>
-    <Street>4th Ave</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98101</Zip>
-  </Address>
-</Hotel>
+  <Hotel Rating="4.1">
+    <Name>W Seattle</Name>
+    <Phone>206-264-6000</Phone>
+    <Phone>877-822-0000</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>1112</Number>
+      <Street>4th Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel>
-  <Name>Kimpton Palladian Hotel</Name>
-  <Phone>206-448-1111</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>2000</Number>
-    <Street>2nd Ave</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98121</Zip>
-  </Address>
-</Hotel>
+  <Hotel>
+    <Name>Kimpton Palladian Hotel</Name>
+    <Phone>206-448-1111</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>2000</Number>
+      <Street>2nd Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98121</Zip>
+    </Address>
+  </Hotel>
 
-<Hotel Rating="4.2">
-  <Name>Loews Hotel 1000</Name>
-  <Phone>206-957-1000</Phone>
-  <Phone>800-420-1140</Phone>
-  <Address NearstAirport="Seattle-Tacoma International Airport">
-    <Number>1000</Number>
-    <Street>1st Ave</Street>
-    <City>Seattle</City>
-    <State>WA</State>
-    <Zip>98104</Zip>
-  </Address>
-</Hotel>
+  <Hotel Rating="4.2">
+    <Name>Loews Hotel 1000</Name>
+    <Phone>206-957-1000</Phone>
+    <Phone>800-420-1140</Phone>
+    <Address NearstAirport="Seattle-Tacoma International Airport">
+      <Number>1000</Number>
+      <Street>1st Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98104</Zip>
+    </Address>
+  </Hotel>
   
 </Hotels>
